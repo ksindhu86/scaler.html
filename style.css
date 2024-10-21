@@ -1,0 +1,18 @@
+body{
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: center;
+}
+.navbar {
+    width: 100%;
+    background-color: #3d4d6a;
+ 
+    * {
+       color: white;
+    }
+ 
+    .btn {
+       border-radius: 10px;
+    }
+ }
